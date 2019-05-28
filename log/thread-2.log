@@ -1,0 +1,3 @@
+13:48:08.975 [Thread-2] INFO demo.Log4j2Demo: thread-2: I am fine.
+13:48:08.975 [Thread-2] WARN demo.Log4j2Demo: thread-2: I love programming.
+13:48:08.975 [Thread-2] ERROR demo.Log4j2Demo: thread-2: I am programming.
